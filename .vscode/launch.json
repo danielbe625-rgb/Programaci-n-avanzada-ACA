@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Biblioteca (WinForms)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/BibliotecaApp/bin/Debug/net8.0-windows/BibliotecaApp.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/BibliotecaApp",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+  ]
+}
